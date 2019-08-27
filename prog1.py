@@ -1,0 +1,6 @@
+a= float (input("enter A value:",))
+b= float (input("enter B value:",))
+c= int(a + b)
+#print ( 'addition of', a, 'and', b,  'is:', c)
+#print(f'addition of {a} and {b} is {c}')
+print('addition of ' +str(a)+ ' and ' +str(b)+ ' is ' +str(c))
